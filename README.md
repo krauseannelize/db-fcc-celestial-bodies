@@ -3,7 +3,7 @@
 ## Tools & Skills Used
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-%233298DA)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database%20Design-%23336791)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Query%20Optimization-%23336791)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database%20Schema-%23336791)
 ![Linux](https://img.shields.io/badge/Linux-Command%20Line-%23ffcc33)
 ![Gitpod](https://img.shields.io/badge/Gitpod-Virtual%20Environment-%23ff8a00)
 
@@ -12,7 +12,7 @@
 - [Step-by-Step Guide](/step-by-step.md)
 
 ## Project Overview
-This project is part of the freeCodeCamp [Relational Database certification](https://www.freecodecamp.org/learn/relational-database/). It involves building a structured **PostgreSQL database** of celestial bodies inside a **virtual Linux environment** powered by Gitpod. The database consists of galaxies, stars, planets, and moons, each following strict relational database principles.
+This project is part of the freeCodeCamp [Relational Database certification](https://www.freecodecamp.org/learn/relational-database/). It involves building a structured **PostgreSQL database** of celestial bodies using the **command-line** inside a **virtual Linux environment** powered by Gitpod. The database consists of galaxies, stars, planets, and moons, each following strict relational database principles.
 
 ## Database Constraints & Requirements
 
